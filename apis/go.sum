@@ -258,6 +258,8 @@ github.com/openstack-k8s-operators/placement-operator/api v0.0.0-20221007105015-
 github.com/openstack-k8s-operators/placement-operator/api v0.0.0-20221007105015-13dce7450573/go.mod h1:LLpN63YuLHd1oZbYO6pKrMsH07jl4h7jueXjVl7bGsY=
 github.com/openstack-k8s-operators/placement-operator/api v0.0.0-20221122143733-c44b1ab0ea53 h1:+E9WSgl5MEnmRRlV9dJfCJc7dIksJGnpssdCAD3FzSs=
 github.com/openstack-k8s-operators/placement-operator/api v0.0.0-20221122143733-c44b1ab0ea53/go.mod h1:TCDHEsJXXK7L4U1xfT44dZh5N1YH5LR6AzoVvOS15E4=
+github.com/openstack-k8s-operators/placement-operator/api v0.0.0-20221125103843-9ecd1377df17 h1:/OrdWdabUinuoAujy2shfyKI9tGcTCE3ZmrdDz66yrE=
+github.com/openstack-k8s-operators/placement-operator/api v0.0.0-20221125103843-9ecd1377df17/go.mod h1:TCDHEsJXXK7L4U1xfT44dZh5N1YH5LR6AzoVvOS15E4=
 github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
